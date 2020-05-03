@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libbuildings_Lib.a  CMakeFiles/buildings_Lib.dir/building.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libbuildings_Lib.a
