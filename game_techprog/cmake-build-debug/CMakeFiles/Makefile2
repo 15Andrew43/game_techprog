@@ -59,10 +59,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog
+CMAKE_SOURCE_DIR = /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug
 
 #=============================================================================
 # Target rules for target CMakeFiles/game_techprog.dir
@@ -75,7 +75,7 @@ CMakeFiles/game_techprog.dir/all: ../libs/lib_functions/CMakeFiles/functions_Lib
 CMakeFiles/game_techprog.dir/all: ../libs/lib_exceptions/CMakeFiles/exceptions_Lib.dir/all
 	$(MAKE) -f CMakeFiles/game_techprog.dir/build.make CMakeFiles/game_techprog.dir/depend
 	$(MAKE) -f CMakeFiles/game_techprog.dir/build.make CMakeFiles/game_techprog.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/CMakeFiles --progress-num=9,10 "Built target game_techprog"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/CMakeFiles --progress-num=9,10 "Built target game_techprog"
 .PHONY : CMakeFiles/game_techprog.dir/all
 
 # Include target in all.
@@ -85,9 +85,9 @@ all: CMakeFiles/game_techprog.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/game_techprog.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/CMakeFiles 12
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/CMakeFiles 12
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/game_techprog.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/game_techprog.dir/rule
 
 # Convenience name for target.
@@ -130,7 +130,7 @@ clean: CMakeFiles/game_techprog.dir/clean
 ../libs/lib_buildings/CMakeFiles/buildings_Lib.dir/all:
 	$(MAKE) -f ../libs/lib_buildings/CMakeFiles/buildings_Lib.dir/build.make ../libs/lib_buildings/CMakeFiles/buildings_Lib.dir/depend
 	$(MAKE) -f ../libs/lib_buildings/CMakeFiles/buildings_Lib.dir/build.make ../libs/lib_buildings/CMakeFiles/buildings_Lib.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/CMakeFiles --progress-num=3,4 "Built target buildings_Lib"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/CMakeFiles --progress-num=3,4 "Built target buildings_Lib"
 .PHONY : ../libs/lib_buildings/CMakeFiles/buildings_Lib.dir/all
 
 # Include target in all.
@@ -140,9 +140,9 @@ all: ../libs/lib_buildings/CMakeFiles/buildings_Lib.dir/all
 
 # Build rule for subdir invocation for target.
 ../libs/lib_buildings/CMakeFiles/buildings_Lib.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 ../libs/lib_buildings/CMakeFiles/buildings_Lib.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/CMakeFiles 0
 .PHONY : ../libs/lib_buildings/CMakeFiles/buildings_Lib.dir/rule
 
 # Convenience name for target.
@@ -185,7 +185,7 @@ clean: ../libs/lib_buildings/CMakeFiles/buildings_Lib.dir/clean
 ../libs/lib_unit/CMakeFiles/unit_Lib.dir/all:
 	$(MAKE) -f ../libs/lib_unit/CMakeFiles/unit_Lib.dir/build.make ../libs/lib_unit/CMakeFiles/unit_Lib.dir/depend
 	$(MAKE) -f ../libs/lib_unit/CMakeFiles/unit_Lib.dir/build.make ../libs/lib_unit/CMakeFiles/unit_Lib.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/CMakeFiles --progress-num=21,22 "Built target unit_Lib"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/CMakeFiles --progress-num=21,22 "Built target unit_Lib"
 .PHONY : ../libs/lib_unit/CMakeFiles/unit_Lib.dir/all
 
 # Include target in all.
@@ -195,9 +195,9 @@ all: ../libs/lib_unit/CMakeFiles/unit_Lib.dir/all
 
 # Build rule for subdir invocation for target.
 ../libs/lib_unit/CMakeFiles/unit_Lib.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 ../libs/lib_unit/CMakeFiles/unit_Lib.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/CMakeFiles 0
 .PHONY : ../libs/lib_unit/CMakeFiles/unit_Lib.dir/rule
 
 # Convenience name for target.
@@ -240,7 +240,7 @@ clean: ../libs/lib_unit/CMakeFiles/unit_Lib.dir/clean
 ../libs/lib_map/CMakeFiles/map_Lib.dir/all:
 	$(MAKE) -f ../libs/lib_map/CMakeFiles/map_Lib.dir/build.make ../libs/lib_map/CMakeFiles/map_Lib.dir/depend
 	$(MAKE) -f ../libs/lib_map/CMakeFiles/map_Lib.dir/build.make ../libs/lib_map/CMakeFiles/map_Lib.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/CMakeFiles --progress-num=19,20 "Built target map_Lib"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/CMakeFiles --progress-num=19,20 "Built target map_Lib"
 .PHONY : ../libs/lib_map/CMakeFiles/map_Lib.dir/all
 
 # Include target in all.
@@ -250,9 +250,9 @@ all: ../libs/lib_map/CMakeFiles/map_Lib.dir/all
 
 # Build rule for subdir invocation for target.
 ../libs/lib_map/CMakeFiles/map_Lib.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 ../libs/lib_map/CMakeFiles/map_Lib.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/CMakeFiles 0
 .PHONY : ../libs/lib_map/CMakeFiles/map_Lib.dir/rule
 
 # Convenience name for target.
@@ -295,7 +295,7 @@ clean: ../libs/lib_map/CMakeFiles/map_Lib.dir/clean
 ../libs/lib_functions/CMakeFiles/functions_Lib.dir/all:
 	$(MAKE) -f ../libs/lib_functions/CMakeFiles/functions_Lib.dir/build.make ../libs/lib_functions/CMakeFiles/functions_Lib.dir/depend
 	$(MAKE) -f ../libs/lib_functions/CMakeFiles/functions_Lib.dir/build.make ../libs/lib_functions/CMakeFiles/functions_Lib.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/CMakeFiles --progress-num=7,8 "Built target functions_Lib"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/CMakeFiles --progress-num=7,8 "Built target functions_Lib"
 .PHONY : ../libs/lib_functions/CMakeFiles/functions_Lib.dir/all
 
 # Include target in all.
@@ -305,9 +305,9 @@ all: ../libs/lib_functions/CMakeFiles/functions_Lib.dir/all
 
 # Build rule for subdir invocation for target.
 ../libs/lib_functions/CMakeFiles/functions_Lib.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 ../libs/lib_functions/CMakeFiles/functions_Lib.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/CMakeFiles 0
 .PHONY : ../libs/lib_functions/CMakeFiles/functions_Lib.dir/rule
 
 # Convenience name for target.
@@ -350,7 +350,7 @@ clean: ../libs/lib_functions/CMakeFiles/functions_Lib.dir/clean
 ../libs/lib_exceptions/CMakeFiles/exceptions_Lib.dir/all:
 	$(MAKE) -f ../libs/lib_exceptions/CMakeFiles/exceptions_Lib.dir/build.make ../libs/lib_exceptions/CMakeFiles/exceptions_Lib.dir/depend
 	$(MAKE) -f ../libs/lib_exceptions/CMakeFiles/exceptions_Lib.dir/build.make ../libs/lib_exceptions/CMakeFiles/exceptions_Lib.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/CMakeFiles --progress-num=5,6 "Built target exceptions_Lib"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/CMakeFiles --progress-num=5,6 "Built target exceptions_Lib"
 .PHONY : ../libs/lib_exceptions/CMakeFiles/exceptions_Lib.dir/all
 
 # Include target in all.
@@ -360,9 +360,9 @@ all: ../libs/lib_exceptions/CMakeFiles/exceptions_Lib.dir/all
 
 # Build rule for subdir invocation for target.
 ../libs/lib_exceptions/CMakeFiles/exceptions_Lib.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 ../libs/lib_exceptions/CMakeFiles/exceptions_Lib.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/CMakeFiles 0
 .PHONY : ../libs/lib_exceptions/CMakeFiles/exceptions_Lib.dir/rule
 
 # Convenience name for target.
@@ -408,7 +408,7 @@ GoogleTestDemo/CMakeFiles/GoogleTestDemo.dir/all: GoogleTestDemo/lib/googletest/
 GoogleTestDemo/CMakeFiles/GoogleTestDemo.dir/all: GoogleTestDemo/lib/googletest/googletest/CMakeFiles/gtest.dir/all
 	$(MAKE) -f GoogleTestDemo/CMakeFiles/GoogleTestDemo.dir/build.make GoogleTestDemo/CMakeFiles/GoogleTestDemo.dir/depend
 	$(MAKE) -f GoogleTestDemo/CMakeFiles/GoogleTestDemo.dir/build.make GoogleTestDemo/CMakeFiles/GoogleTestDemo.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target GoogleTestDemo"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target GoogleTestDemo"
 .PHONY : GoogleTestDemo/CMakeFiles/GoogleTestDemo.dir/all
 
 # Include target in all.
@@ -418,9 +418,9 @@ all: GoogleTestDemo/CMakeFiles/GoogleTestDemo.dir/all
 
 # Build rule for subdir invocation for target.
 GoogleTestDemo/CMakeFiles/GoogleTestDemo.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/CMakeFiles 6
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/CMakeFiles 6
 	$(MAKE) -f CMakeFiles/Makefile2 GoogleTestDemo/CMakeFiles/GoogleTestDemo.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/CMakeFiles 0
 .PHONY : GoogleTestDemo/CMakeFiles/GoogleTestDemo.dir/rule
 
 # Convenience name for target.
@@ -485,7 +485,7 @@ GoogleTestDemo/lib/googletest/googlemock/preinstall: GoogleTestDemo/lib/googlete
 GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock.dir/all: GoogleTestDemo/lib/googletest/googletest/CMakeFiles/gtest.dir/all
 	$(MAKE) -f GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock.dir/build.make GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock.dir/depend
 	$(MAKE) -f GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock.dir/build.make GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/CMakeFiles --progress-num=11,12 "Built target gmock"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/CMakeFiles --progress-num=11,12 "Built target gmock"
 .PHONY : GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock.dir/all
 
 # Include target in all.
@@ -495,9 +495,9 @@ all: GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock.dir/all
 
 # Build rule for subdir invocation for target.
 GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/CMakeFiles 4
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/CMakeFiles 4
 	$(MAKE) -f CMakeFiles/Makefile2 GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/CMakeFiles 0
 .PHONY : GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock.dir/rule
 
 # Convenience name for target.
@@ -523,7 +523,7 @@ GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/all: GoogleTe
 GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/all: GoogleTestDemo/lib/googletest/googletest/CMakeFiles/gtest.dir/all
 	$(MAKE) -f GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/build.make GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/depend
 	$(MAKE) -f GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/build.make GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/CMakeFiles --progress-num=13,14 "Built target gmock_main"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/CMakeFiles --progress-num=13,14 "Built target gmock_main"
 .PHONY : GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/all
 
 # Include target in all.
@@ -533,9 +533,9 @@ all: GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/all
 
 # Build rule for subdir invocation for target.
 GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/CMakeFiles 6
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/CMakeFiles 6
 	$(MAKE) -f CMakeFiles/Makefile2 GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/CMakeFiles 0
 .PHONY : GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/rule
 
 # Convenience name for target.
@@ -580,7 +580,7 @@ GoogleTestDemo/lib/googletest/googletest/preinstall:
 GoogleTestDemo/lib/googletest/googletest/CMakeFiles/gtest_main.dir/all: GoogleTestDemo/lib/googletest/googletest/CMakeFiles/gtest.dir/all
 	$(MAKE) -f GoogleTestDemo/lib/googletest/googletest/CMakeFiles/gtest_main.dir/build.make GoogleTestDemo/lib/googletest/googletest/CMakeFiles/gtest_main.dir/depend
 	$(MAKE) -f GoogleTestDemo/lib/googletest/googletest/CMakeFiles/gtest_main.dir/build.make GoogleTestDemo/lib/googletest/googletest/CMakeFiles/gtest_main.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/CMakeFiles --progress-num=17,18 "Built target gtest_main"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/CMakeFiles --progress-num=17,18 "Built target gtest_main"
 .PHONY : GoogleTestDemo/lib/googletest/googletest/CMakeFiles/gtest_main.dir/all
 
 # Include target in all.
@@ -590,9 +590,9 @@ all: GoogleTestDemo/lib/googletest/googletest/CMakeFiles/gtest_main.dir/all
 
 # Build rule for subdir invocation for target.
 GoogleTestDemo/lib/googletest/googletest/CMakeFiles/gtest_main.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/CMakeFiles 4
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/CMakeFiles 4
 	$(MAKE) -f CMakeFiles/Makefile2 GoogleTestDemo/lib/googletest/googletest/CMakeFiles/gtest_main.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/CMakeFiles 0
 .PHONY : GoogleTestDemo/lib/googletest/googletest/CMakeFiles/gtest_main.dir/rule
 
 # Convenience name for target.
@@ -617,7 +617,7 @@ clean: GoogleTestDemo/lib/googletest/googletest/CMakeFiles/gtest_main.dir/clean
 GoogleTestDemo/lib/googletest/googletest/CMakeFiles/gtest.dir/all:
 	$(MAKE) -f GoogleTestDemo/lib/googletest/googletest/CMakeFiles/gtest.dir/build.make GoogleTestDemo/lib/googletest/googletest/CMakeFiles/gtest.dir/depend
 	$(MAKE) -f GoogleTestDemo/lib/googletest/googletest/CMakeFiles/gtest.dir/build.make GoogleTestDemo/lib/googletest/googletest/CMakeFiles/gtest.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/CMakeFiles --progress-num=15,16 "Built target gtest"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/CMakeFiles --progress-num=15,16 "Built target gtest"
 .PHONY : GoogleTestDemo/lib/googletest/googletest/CMakeFiles/gtest.dir/all
 
 # Include target in all.
@@ -627,9 +627,9 @@ all: GoogleTestDemo/lib/googletest/googletest/CMakeFiles/gtest.dir/all
 
 # Build rule for subdir invocation for target.
 GoogleTestDemo/lib/googletest/googletest/CMakeFiles/gtest.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 GoogleTestDemo/lib/googletest/googletest/CMakeFiles/gtest.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/CMakeFiles 0
 .PHONY : GoogleTestDemo/lib/googletest/googletest/CMakeFiles/gtest.dir/rule
 
 # Convenience name for target.

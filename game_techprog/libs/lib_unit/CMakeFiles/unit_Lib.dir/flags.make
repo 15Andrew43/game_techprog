@@ -6,5 +6,5 @@ CXX_FLAGS =  -std=c++17 -g -isysroot /Library/Developer/CommandLineTools/SDKs/Ma
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/unit -I/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/buildings -I/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/map -I/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/functions -I/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/exceptions 
+CXX_INCLUDES = -I/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/unit -I/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/buildings -I/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/map -I/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/functions -I/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/exceptions 
 

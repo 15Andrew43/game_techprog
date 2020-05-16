@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="game_techprog" targetName="unit_Lib" />
+      <config projectName="game_techprog" targetName="exceptions_Lib" />
+      <config projectName="game_techprog" targetName="gmock_main" />
+      <config projectName="game_techprog" targetName="functions_Lib" />
+      <config projectName="game_techprog" targetName="gtest" />
+      <config projectName="game_techprog" targetName="GoogleTestDemo" />
+      <config projectName="game_techprog" targetName="map_Lib" />
+      <config projectName="game_techprog" targetName="game_techprog" />
+      <config projectName="game_techprog" targetName="buildings_Lib" />
+      <config projectName="game_techprog" targetName="gmock" />
+      <config projectName="game_techprog" targetName="gtest_main" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="15777c75-ea5f-4b66-901d-28ffc7b1859b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/game_techprog.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/game_techprog.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/game_techprog.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/game_techprog.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/game_techprog.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/game_techprog.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/game_techprog.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/game_techprog.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/game_techprog.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/game_techprog.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/game_techprog.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/CMakeFiles/GoogleTestDemo.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/CMakeFiles/GoogleTestDemo.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/CMakeFiles/GoogleTestDemo.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/CMakeFiles/GoogleTestDemo.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/CMakeFiles/GoogleTestDemo.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/CMakeFiles/GoogleTestDemo.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/GoogleTestDemo.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/GoogleTestDemo.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/CTestTestfile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/CTestTestfile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/CTestTestfile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/CTestTestfile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/gmock.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/gmock.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest-distribution.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest-distribution.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/CMakeFiles/gtest.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/CMakeFiles/gtest.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/CMakeFiles/gtest.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/CMakeFiles/gtest.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/CMakeFiles/gtest.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/CMakeFiles/gtest.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/CMakeFiles/gtest_main.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/CMakeFiles/gtest_main.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/CMakeFiles/gtest_main.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/CMakeFiles/gtest_main.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/CMakeFiles/gtest_main.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/CMakeFiles/gtest_main.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/CTestTestfile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/CTestTestfile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/gtest.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/gtest.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/game_techprog.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/game_techprog.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/lib_buildings/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/libs/lib_buildings/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/lib_buildings/CMakeFiles/buildings_Lib.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/libs/lib_buildings/CMakeFiles/buildings_Lib.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/lib_buildings/CMakeFiles/buildings_Lib.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/libs/lib_buildings/CMakeFiles/buildings_Lib.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/lib_buildings/CMakeFiles/buildings_Lib.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/libs/lib_buildings/CMakeFiles/buildings_Lib.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/lib_buildings/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/libs/lib_buildings/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/lib_buildings/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/libs/lib_buildings/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/lib_exceptions/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/libs/lib_exceptions/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/lib_exceptions/CMakeFiles/exceptions_Lib.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/libs/lib_exceptions/CMakeFiles/exceptions_Lib.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/lib_exceptions/CMakeFiles/exceptions_Lib.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/libs/lib_exceptions/CMakeFiles/exceptions_Lib.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/lib_exceptions/CMakeFiles/exceptions_Lib.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/libs/lib_exceptions/CMakeFiles/exceptions_Lib.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/lib_exceptions/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/libs/lib_exceptions/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/lib_exceptions/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/libs/lib_exceptions/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/lib_functions/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/libs/lib_functions/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/lib_functions/CMakeFiles/functions_Lib.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/libs/lib_functions/CMakeFiles/functions_Lib.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/lib_functions/CMakeFiles/functions_Lib.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/libs/lib_functions/CMakeFiles/functions_Lib.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/lib_functions/CMakeFiles/functions_Lib.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/libs/lib_functions/CMakeFiles/functions_Lib.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/lib_functions/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/libs/lib_functions/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/lib_functions/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/libs/lib_functions/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/lib_map/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/libs/lib_map/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/lib_map/CMakeFiles/map_Lib.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/libs/lib_map/CMakeFiles/map_Lib.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/lib_map/CMakeFiles/map_Lib.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/libs/lib_map/CMakeFiles/map_Lib.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/lib_map/CMakeFiles/map_Lib.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/libs/lib_map/CMakeFiles/map_Lib.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/lib_map/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/libs/lib_map/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/lib_map/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/libs/lib_map/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/lib_unit/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/libs/lib_unit/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/lib_unit/CMakeFiles/unit_Lib.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/libs/lib_unit/CMakeFiles/unit_Lib.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/lib_unit/CMakeFiles/unit_Lib.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/libs/lib_unit/CMakeFiles/unit_Lib.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/lib_unit/CMakeFiles/unit_Lib.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/libs/lib_unit/CMakeFiles/unit_Lib.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/lib_unit/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/libs/lib_unit/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/lib_unit/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/libs/lib_unit/cmake_install.cmake" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1bPL7iSkg2ugTfQ1PZsA68UFq4a" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.game_techprog">
+    <configuration name="GoogleTestDemo" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="game_techprog" TARGET_NAME="GoogleTestDemo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="game_techprog" RUN_TARGET_NAME="GoogleTestDemo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="buildings_Lib" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="game_techprog" TARGET_NAME="buildings_Lib" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exceptions_Lib" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="game_techprog" TARGET_NAME="exceptions_Lib" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="functions_Lib" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="game_techprog" TARGET_NAME="functions_Lib" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="game_techprog" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="game_techprog" TARGET_NAME="game_techprog" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="game_techprog" RUN_TARGET_NAME="game_techprog">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="game_techprog" TARGET_NAME="gmock" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gmock_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="game_techprog" TARGET_NAME="gmock_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="game_techprog" TARGET_NAME="gtest" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="game_techprog" TARGET_NAME="gtest_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="map_Lib" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="game_techprog" TARGET_NAME="map_Lib" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="unit_Lib" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="game_techprog" TARGET_NAME="unit_Lib" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.game_techprog" />
+      <item itemvalue="CMake Application.buildings_Lib" />
+      <item itemvalue="CMake Application.exceptions_Lib" />
+      <item itemvalue="CMake Application.functions_Lib" />
+      <item itemvalue="CMake Application.GoogleTestDemo" />
+      <item itemvalue="CMake Application.gmock" />
+      <item itemvalue="CMake Application.gmock_main" />
+      <item itemvalue="CMake Application.gtest" />
+      <item itemvalue="CMake Application.gtest_main" />
+      <item itemvalue="CMake Application.map_Lib" />
+      <item itemvalue="CMake Application.unit_Lib" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15777c75-ea5f-4b66-901d-28ffc7b1859b" name="Default Changelist" comment="" />
+      <created>1588528616457</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588528616457</updated>
+      <workItem from="1588528619457" duration="43000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

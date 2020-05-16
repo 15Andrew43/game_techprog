@@ -43,10 +43,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog
+CMAKE_SOURCE_DIR = /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include GoogleTestDemo/CMakeFiles/GoogleTestDemo.dir/depend.make
@@ -59,16 +59,16 @@ include GoogleTestDemo/CMakeFiles/GoogleTestDemo.dir/flags.make
 
 GoogleTestDemo/CMakeFiles/GoogleTestDemo.dir/main_test.cpp.o: GoogleTestDemo/CMakeFiles/GoogleTestDemo.dir/flags.make
 GoogleTestDemo/CMakeFiles/GoogleTestDemo.dir/main_test.cpp.o: ../GoogleTestDemo/main_test.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object GoogleTestDemo/CMakeFiles/GoogleTestDemo.dir/main_test.cpp.o"
-	cd /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo && /Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/GoogleTestDemo.dir/main_test.cpp.o -c /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/main_test.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object GoogleTestDemo/CMakeFiles/GoogleTestDemo.dir/main_test.cpp.o"
+	cd /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo && /Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/GoogleTestDemo.dir/main_test.cpp.o -c /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/main_test.cpp
 
 GoogleTestDemo/CMakeFiles/GoogleTestDemo.dir/main_test.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/GoogleTestDemo.dir/main_test.cpp.i"
-	cd /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo && /Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/main_test.cpp > CMakeFiles/GoogleTestDemo.dir/main_test.cpp.i
+	cd /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo && /Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/main_test.cpp > CMakeFiles/GoogleTestDemo.dir/main_test.cpp.i
 
 GoogleTestDemo/CMakeFiles/GoogleTestDemo.dir/main_test.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/GoogleTestDemo.dir/main_test.cpp.s"
-	cd /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo && /Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/main_test.cpp -o CMakeFiles/GoogleTestDemo.dir/main_test.cpp.s
+	cd /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo && /Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/main_test.cpp -o CMakeFiles/GoogleTestDemo.dir/main_test.cpp.s
 
 # Object files for target GoogleTestDemo
 GoogleTestDemo_OBJECTS = \
@@ -83,8 +83,8 @@ GoogleTestDemo_EXTERNAL_OBJECTS =
 ../bin/GoogleTestDemo: lib/libgtest_maind.a
 ../bin/GoogleTestDemo: lib/libgtestd.a
 ../bin/GoogleTestDemo: GoogleTestDemo/CMakeFiles/GoogleTestDemo.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable ../../bin/GoogleTestDemo"
-	cd /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/GoogleTestDemo.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable ../../bin/GoogleTestDemo"
+	cd /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/GoogleTestDemo.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 GoogleTestDemo/CMakeFiles/GoogleTestDemo.dir/build: ../bin/GoogleTestDemo
@@ -92,10 +92,10 @@ GoogleTestDemo/CMakeFiles/GoogleTestDemo.dir/build: ../bin/GoogleTestDemo
 .PHONY : GoogleTestDemo/CMakeFiles/GoogleTestDemo.dir/build
 
 GoogleTestDemo/CMakeFiles/GoogleTestDemo.dir/clean:
-	cd /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo && $(CMAKE_COMMAND) -P CMakeFiles/GoogleTestDemo.dir/cmake_clean.cmake
+	cd /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo && $(CMAKE_COMMAND) -P CMakeFiles/GoogleTestDemo.dir/cmake_clean.cmake
 .PHONY : GoogleTestDemo/CMakeFiles/GoogleTestDemo.dir/clean
 
 GoogleTestDemo/CMakeFiles/GoogleTestDemo.dir/depend:
-	cd /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/CMakeFiles/GoogleTestDemo.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/CMakeFiles/GoogleTestDemo.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : GoogleTestDemo/CMakeFiles/GoogleTestDemo.dir/depend
 

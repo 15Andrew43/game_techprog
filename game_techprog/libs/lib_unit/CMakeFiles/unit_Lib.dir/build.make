@@ -43,10 +43,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog
+CMAKE_SOURCE_DIR = /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include ../libs/lib_unit/CMakeFiles/unit_Lib.dir/depend.make
@@ -59,16 +59,16 @@ include ../libs/lib_unit/CMakeFiles/unit_Lib.dir/flags.make
 
 ../libs/lib_unit/CMakeFiles/unit_Lib.dir/unit.cpp.o: ../libs/lib_unit/CMakeFiles/unit_Lib.dir/flags.make
 ../libs/lib_unit/CMakeFiles/unit_Lib.dir/unit.cpp.o: ../unit/unit.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object ../libs/lib_unit/CMakeFiles/unit_Lib.dir/unit.cpp.o"
-	cd /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_unit && /Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unit_Lib.dir/unit.cpp.o -c /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/unit/unit.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object ../libs/lib_unit/CMakeFiles/unit_Lib.dir/unit.cpp.o"
+	cd /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_unit && /Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/unit_Lib.dir/unit.cpp.o -c /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/unit/unit.cpp
 
 ../libs/lib_unit/CMakeFiles/unit_Lib.dir/unit.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/unit_Lib.dir/unit.cpp.i"
-	cd /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_unit && /Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/unit/unit.cpp > CMakeFiles/unit_Lib.dir/unit.cpp.i
+	cd /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_unit && /Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/unit/unit.cpp > CMakeFiles/unit_Lib.dir/unit.cpp.i
 
 ../libs/lib_unit/CMakeFiles/unit_Lib.dir/unit.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/unit_Lib.dir/unit.cpp.s"
-	cd /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_unit && /Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/unit/unit.cpp -o CMakeFiles/unit_Lib.dir/unit.cpp.s
+	cd /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_unit && /Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/unit/unit.cpp -o CMakeFiles/unit_Lib.dir/unit.cpp.s
 
 # Object files for target unit_Lib
 unit_Lib_OBJECTS = \
@@ -80,9 +80,9 @@ unit_Lib_EXTERNAL_OBJECTS =
 ../libs/lib_unit/libunit_Lib.a: ../libs/lib_unit/CMakeFiles/unit_Lib.dir/unit.cpp.o
 ../libs/lib_unit/libunit_Lib.a: ../libs/lib_unit/CMakeFiles/unit_Lib.dir/build.make
 ../libs/lib_unit/libunit_Lib.a: ../libs/lib_unit/CMakeFiles/unit_Lib.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library libunit_Lib.a"
-	cd /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_unit && $(CMAKE_COMMAND) -P CMakeFiles/unit_Lib.dir/cmake_clean_target.cmake
-	cd /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_unit && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/unit_Lib.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library libunit_Lib.a"
+	cd /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_unit && $(CMAKE_COMMAND) -P CMakeFiles/unit_Lib.dir/cmake_clean_target.cmake
+	cd /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_unit && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/unit_Lib.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 ../libs/lib_unit/CMakeFiles/unit_Lib.dir/build: ../libs/lib_unit/libunit_Lib.a
@@ -90,10 +90,10 @@ unit_Lib_EXTERNAL_OBJECTS =
 .PHONY : ../libs/lib_unit/CMakeFiles/unit_Lib.dir/build
 
 ../libs/lib_unit/CMakeFiles/unit_Lib.dir/clean:
-	cd /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_unit && $(CMAKE_COMMAND) -P CMakeFiles/unit_Lib.dir/cmake_clean.cmake
+	cd /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_unit && $(CMAKE_COMMAND) -P CMakeFiles/unit_Lib.dir/cmake_clean.cmake
 .PHONY : ../libs/lib_unit/CMakeFiles/unit_Lib.dir/clean
 
 ../libs/lib_unit/CMakeFiles/unit_Lib.dir/depend:
-	cd /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/unit /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_unit /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_unit/CMakeFiles/unit_Lib.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/unit /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_unit /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_unit/CMakeFiles/unit_Lib.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : ../libs/lib_unit/CMakeFiles/unit_Lib.dir/depend
 
