@@ -43,10 +43,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog
+CMAKE_SOURCE_DIR = /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include ../libs/lib_buildings/CMakeFiles/buildings_Lib.dir/depend.make
@@ -59,16 +59,16 @@ include ../libs/lib_buildings/CMakeFiles/buildings_Lib.dir/flags.make
 
 ../libs/lib_buildings/CMakeFiles/buildings_Lib.dir/building.cpp.o: ../libs/lib_buildings/CMakeFiles/buildings_Lib.dir/flags.make
 ../libs/lib_buildings/CMakeFiles/buildings_Lib.dir/building.cpp.o: ../buildings/building.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object ../libs/lib_buildings/CMakeFiles/buildings_Lib.dir/building.cpp.o"
-	cd /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_buildings && /Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/buildings_Lib.dir/building.cpp.o -c /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/buildings/building.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object ../libs/lib_buildings/CMakeFiles/buildings_Lib.dir/building.cpp.o"
+	cd /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_buildings && /Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/buildings_Lib.dir/building.cpp.o -c /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/buildings/building.cpp
 
 ../libs/lib_buildings/CMakeFiles/buildings_Lib.dir/building.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/buildings_Lib.dir/building.cpp.i"
-	cd /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_buildings && /Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/buildings/building.cpp > CMakeFiles/buildings_Lib.dir/building.cpp.i
+	cd /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_buildings && /Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/buildings/building.cpp > CMakeFiles/buildings_Lib.dir/building.cpp.i
 
 ../libs/lib_buildings/CMakeFiles/buildings_Lib.dir/building.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/buildings_Lib.dir/building.cpp.s"
-	cd /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_buildings && /Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/buildings/building.cpp -o CMakeFiles/buildings_Lib.dir/building.cpp.s
+	cd /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_buildings && /Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/buildings/building.cpp -o CMakeFiles/buildings_Lib.dir/building.cpp.s
 
 # Object files for target buildings_Lib
 buildings_Lib_OBJECTS = \
@@ -80,9 +80,9 @@ buildings_Lib_EXTERNAL_OBJECTS =
 ../libs/lib_buildings/libbuildings_Lib.a: ../libs/lib_buildings/CMakeFiles/buildings_Lib.dir/building.cpp.o
 ../libs/lib_buildings/libbuildings_Lib.a: ../libs/lib_buildings/CMakeFiles/buildings_Lib.dir/build.make
 ../libs/lib_buildings/libbuildings_Lib.a: ../libs/lib_buildings/CMakeFiles/buildings_Lib.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library libbuildings_Lib.a"
-	cd /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_buildings && $(CMAKE_COMMAND) -P CMakeFiles/buildings_Lib.dir/cmake_clean_target.cmake
-	cd /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_buildings && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/buildings_Lib.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library libbuildings_Lib.a"
+	cd /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_buildings && $(CMAKE_COMMAND) -P CMakeFiles/buildings_Lib.dir/cmake_clean_target.cmake
+	cd /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_buildings && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/buildings_Lib.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 ../libs/lib_buildings/CMakeFiles/buildings_Lib.dir/build: ../libs/lib_buildings/libbuildings_Lib.a
@@ -90,10 +90,10 @@ buildings_Lib_EXTERNAL_OBJECTS =
 .PHONY : ../libs/lib_buildings/CMakeFiles/buildings_Lib.dir/build
 
 ../libs/lib_buildings/CMakeFiles/buildings_Lib.dir/clean:
-	cd /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_buildings && $(CMAKE_COMMAND) -P CMakeFiles/buildings_Lib.dir/cmake_clean.cmake
+	cd /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_buildings && $(CMAKE_COMMAND) -P CMakeFiles/buildings_Lib.dir/cmake_clean.cmake
 .PHONY : ../libs/lib_buildings/CMakeFiles/buildings_Lib.dir/clean
 
 ../libs/lib_buildings/CMakeFiles/buildings_Lib.dir/depend:
-	cd /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/buildings /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_buildings /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_buildings/CMakeFiles/buildings_Lib.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/buildings /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_buildings /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_buildings/CMakeFiles/buildings_Lib.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : ../libs/lib_buildings/CMakeFiles/buildings_Lib.dir/depend
 

@@ -1,4 +1,4 @@
-# Install script for directory: /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/lib/googletest/googlemock
+# Install script for directory: /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/lib/googletest/googlemock
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -33,11 +33,11 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include" TYPE DIRECTORY FILES "/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/lib/googletest/googlemock/include/")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include" TYPE DIRECTORY FILES "/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/lib/googletest/googlemock/include/")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/lib/libgmockd.a")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/lib/libgmockd.a")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libgmockd.a" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libgmockd.a")
     execute_process(COMMAND "/Library/Developer/CommandLineTools/usr/bin/ranlib" "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libgmockd.a")
@@ -45,7 +45,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/lib/libgmock_maind.a")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/lib/libgmock_maind.a")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libgmock_maind.a" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libgmock_maind.a")
     execute_process(COMMAND "/Library/Developer/CommandLineTools/usr/bin/ranlib" "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/libgmock_maind.a")
@@ -53,16 +53,16 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/generated/gmock.pc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/generated/gmock.pc")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/generated/gmock_main.pc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/generated/gmock_main.pc")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/cmake_install.cmake")
+  include("/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/cmake_install.cmake")
 
 endif()
 

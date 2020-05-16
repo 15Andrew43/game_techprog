@@ -48,10 +48,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog
+CMAKE_SOURCE_DIR = /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -126,14 +126,14 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	cd /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/CMakeFiles /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_map/CMakeFiles/progress.marks
-	cd /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 ../libs/lib_map/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/CMakeFiles 0
+	cd /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/CMakeFiles /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_map/CMakeFiles/progress.marks
+	cd /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 ../libs/lib_map/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
 clean:
-	cd /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 ../libs/lib_map/clean
+	cd /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 ../libs/lib_map/clean
 .PHONY : clean
 
 # The main clean target
@@ -143,22 +143,22 @@ clean/fast: clean
 
 # Prepare targets for installation.
 preinstall: all
-	cd /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 ../libs/lib_map/preinstall
+	cd /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 ../libs/lib_map/preinstall
 .PHONY : preinstall
 
 # Prepare targets for installation.
 preinstall/fast:
-	cd /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 ../libs/lib_map/preinstall
+	cd /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 ../libs/lib_map/preinstall
 .PHONY : preinstall/fast
 
 # clear depends
 depend:
-	cd /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
+	cd /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
 # Convenience name for target.
 ../libs/lib_map/CMakeFiles/map_Lib.dir/rule:
-	cd /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 ../libs/lib_map/CMakeFiles/map_Lib.dir/rule
+	cd /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug && $(MAKE) -f CMakeFiles/Makefile2 ../libs/lib_map/CMakeFiles/map_Lib.dir/rule
 .PHONY : ../libs/lib_map/CMakeFiles/map_Lib.dir/rule
 
 # Convenience name for target.
@@ -168,7 +168,7 @@ map_Lib: ../libs/lib_map/CMakeFiles/map_Lib.dir/rule
 
 # fast build rule for target.
 map_Lib/fast:
-	cd /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug && $(MAKE) -f ../libs/lib_map/CMakeFiles/map_Lib.dir/build.make ../libs/lib_map/CMakeFiles/map_Lib.dir/build
+	cd /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug && $(MAKE) -f ../libs/lib_map/CMakeFiles/map_Lib.dir/build.make ../libs/lib_map/CMakeFiles/map_Lib.dir/build
 .PHONY : map_Lib/fast
 
 map.o: map.cpp.o
@@ -177,7 +177,7 @@ map.o: map.cpp.o
 
 # target to build an object file
 map.cpp.o:
-	cd /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug && $(MAKE) -f ../libs/lib_map/CMakeFiles/map_Lib.dir/build.make ../libs/lib_map/CMakeFiles/map_Lib.dir/map.cpp.o
+	cd /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug && $(MAKE) -f ../libs/lib_map/CMakeFiles/map_Lib.dir/build.make ../libs/lib_map/CMakeFiles/map_Lib.dir/map.cpp.o
 .PHONY : map.cpp.o
 
 map.i: map.cpp.i
@@ -186,7 +186,7 @@ map.i: map.cpp.i
 
 # target to preprocess a source file
 map.cpp.i:
-	cd /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug && $(MAKE) -f ../libs/lib_map/CMakeFiles/map_Lib.dir/build.make ../libs/lib_map/CMakeFiles/map_Lib.dir/map.cpp.i
+	cd /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug && $(MAKE) -f ../libs/lib_map/CMakeFiles/map_Lib.dir/build.make ../libs/lib_map/CMakeFiles/map_Lib.dir/map.cpp.i
 .PHONY : map.cpp.i
 
 map.s: map.cpp.s
@@ -195,7 +195,7 @@ map.s: map.cpp.s
 
 # target to generate assembly for a file
 map.cpp.s:
-	cd /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug && $(MAKE) -f ../libs/lib_map/CMakeFiles/map_Lib.dir/build.make ../libs/lib_map/CMakeFiles/map_Lib.dir/map.cpp.s
+	cd /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug && $(MAKE) -f ../libs/lib_map/CMakeFiles/map_Lib.dir/build.make ../libs/lib_map/CMakeFiles/map_Lib.dir/map.cpp.s
 .PHONY : map.cpp.s
 
 # Help Target
@@ -225,6 +225,6 @@ help:
 # No rule that depends on this can have commands that come from listfiles
 # because they might be regenerated.
 cmake_check_build_system:
-	cd /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
+	cd /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 0
 .PHONY : cmake_check_build_system
 

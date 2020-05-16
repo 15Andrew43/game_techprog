@@ -48,10 +48,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog
+CMAKE_SOURCE_DIR = /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -126,9 +126,9 @@ list_install_components/fast: list_install_components
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/CMakeFiles /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/CMakeFiles /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target

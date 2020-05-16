@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/exceptions/exceptions.cpp" "/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_exceptions/CMakeFiles/exceptions_Lib.dir/exceptions.cpp.o"
+  "/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/exceptions/exceptions.cpp" "/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_exceptions/CMakeFiles/exceptions_Lib.dir/exceptions.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

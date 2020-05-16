@@ -1,4 +1,24 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog
+-- The C compiler identification is AppleClang 11.0.0.11000033
+-- The CXX compiler identification is AppleClang 11.0.0.11000033
+-- Check for working C compiler: /Library/Developer/CommandLineTools/usr/bin/cc
+-- Check for working C compiler: /Library/Developer/CommandLineTools/usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /Library/Developer/CommandLineTools/usr/bin/c++
+-- Check for working CXX compiler: /Library/Developer/CommandLineTools/usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found PythonInterp: /Library/Frameworks/Python.framework/Versions/2.7/bin/python (found version "2.7.18") 
+-- Looking for pthread.h
+-- Looking for pthread.h - found
+-- Looking for pthread_create
+-- Looking for pthread_create - found
+-- Found Threads: TRUE  
 -- Configuring done
 -- Generating done
--- Build files have been written to: /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug
+-- Build files have been written to: /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug

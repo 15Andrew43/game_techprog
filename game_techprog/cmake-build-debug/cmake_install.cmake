@@ -1,4 +1,4 @@
-# Install script for directory: /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog
+# Install script for directory: /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,32 +34,32 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_buildings/cmake_install.cmake")
+  include("/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_buildings/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_unit/cmake_install.cmake")
+  include("/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_unit/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_map/cmake_install.cmake")
+  include("/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_map/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_functions/cmake_install.cmake")
+  include("/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_functions/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_exceptions/cmake_install.cmake")
+  include("/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_exceptions/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/cmake_install.cmake")
+  include("/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -70,5 +70,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/main_test.cpp" "/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/CMakeFiles/GoogleTestDemo.dir/main_test.cpp.o"
+  "/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/main_test.cpp" "/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/CMakeFiles/GoogleTestDemo.dir/main_test.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
@@ -21,8 +21,8 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/CMakeFiles/gtest.dir/DependInfo.cmake"
-  "/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/CMakeFiles/gtest_main.dir/DependInfo.cmake"
+  "/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/CMakeFiles/gtest.dir/DependInfo.cmake"
+  "/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/CMakeFiles/gtest_main.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

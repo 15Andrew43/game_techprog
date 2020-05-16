@@ -1,4 +1,4 @@
-# Install script for directory: /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/unit
+# Install script for directory: /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/unit
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/lib/googletest/googletest/src/gtest-all.cc" "/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o"
+  "/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/lib/googletest/googletest/src/gtest-all.cc" "/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o"
   )
 set(CMAKE_CXX_COMPILER_ID "Clang")
 

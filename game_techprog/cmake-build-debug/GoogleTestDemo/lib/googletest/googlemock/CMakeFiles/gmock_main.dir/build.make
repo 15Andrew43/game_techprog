@@ -43,10 +43,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog
+CMAKE_SOURCE_DIR = /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/depend.make
@@ -59,16 +59,16 @@ include GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/flags
 
 GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o: GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/flags.make
 GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o: ../GoogleTestDemo/lib/googletest/googlemock/src/gmock_main.cc
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o"
-	cd /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock && /Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/lib/googletest/googlemock/src/gmock_main.cc
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o"
+	cd /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock && /Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/lib/googletest/googlemock/src/gmock_main.cc
 
 GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/gmock_main.dir/src/gmock_main.cc.i"
-	cd /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock && /Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/lib/googletest/googlemock/src/gmock_main.cc > CMakeFiles/gmock_main.dir/src/gmock_main.cc.i
+	cd /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock && /Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/lib/googletest/googlemock/src/gmock_main.cc > CMakeFiles/gmock_main.dir/src/gmock_main.cc.i
 
 GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/gmock_main.dir/src/gmock_main.cc.s"
-	cd /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock && /Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/lib/googletest/googlemock/src/gmock_main.cc -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.s
+	cd /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock && /Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/lib/googletest/googlemock/src/gmock_main.cc -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.s
 
 # Object files for target gmock_main
 gmock_main_OBJECTS = \
@@ -80,9 +80,9 @@ gmock_main_EXTERNAL_OBJECTS =
 lib/libgmock_maind.a: GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o
 lib/libgmock_maind.a: GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/build.make
 lib/libgmock_maind.a: GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library ../../../../lib/libgmock_maind.a"
-	cd /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock && $(CMAKE_COMMAND) -P CMakeFiles/gmock_main.dir/cmake_clean_target.cmake
-	cd /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/gmock_main.dir/link.txt --verbose=$(VERBOSE)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library ../../../../lib/libgmock_maind.a"
+	cd /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock && $(CMAKE_COMMAND) -P CMakeFiles/gmock_main.dir/cmake_clean_target.cmake
+	cd /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/gmock_main.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
 GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/build: lib/libgmock_maind.a
@@ -90,10 +90,10 @@ GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/build: lib/li
 .PHONY : GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/build
 
 GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/clean:
-	cd /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock && $(CMAKE_COMMAND) -P CMakeFiles/gmock_main.dir/cmake_clean.cmake
+	cd /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock && $(CMAKE_COMMAND) -P CMakeFiles/gmock_main.dir/cmake_clean.cmake
 .PHONY : GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/clean
 
 GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/depend:
-	cd /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/lib/googletest/googlemock /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/lib/googletest/googlemock /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : GoogleTestDemo/lib/googletest/googlemock/CMakeFiles/gmock_main.dir/depend
 

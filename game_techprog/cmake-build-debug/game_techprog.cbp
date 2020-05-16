@@ -8,88 +8,88 @@
 		<Option virtualFolders="CMake Files\;CMake Files\GoogleTestDemo\;CMake Files\GoogleTestDemo\lib\;CMake Files\GoogleTestDemo\lib\googletest\;CMake Files\GoogleTestDemo\lib\googletest\googlemock\;CMake Files\GoogleTestDemo\lib\googletest\googlemock\cmake\;CMake Files\GoogleTestDemo\lib\googletest\googletest\;CMake Files\GoogleTestDemo\lib\googletest\googletest\cmake\;CMake Files\buildings\;CMake Files\unit\;CMake Files\map\;CMake Files\functions\;CMake Files\exceptions\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug"/>
+				<Option working_dir="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="install/local">
-				<Option working_dir="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug"/>
+				<Option working_dir="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/local"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/local"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug"/>
+				<Option working_dir="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug"/>
+				<Option working_dir="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="install/strip">
-				<Option working_dir="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug"/>
+				<Option working_dir="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/strip"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 install/strip"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="install">
-				<Option working_dir="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug"/>
+				<Option working_dir="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 install"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 install"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="list_install_components">
-				<Option working_dir="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug"/>
+				<Option working_dir="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 list_install_components"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 list_install_components"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="game_techprog">
-				<Option output="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/bin/game_techprog" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/bin"/>
+				<Option output="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/bin/game_techprog" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/bin"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/unit"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/buildings"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/map"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/functions"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/exceptions"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/unit"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/buildings"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/map"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/functions"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/exceptions"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
@@ -98,25 +98,25 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 game_techprog"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 game_techprog"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="game_techprog/fast">
-				<Option output="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/bin/game_techprog" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/bin"/>
+				<Option output="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/bin/game_techprog" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/bin"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/unit"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/buildings"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/map"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/functions"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/exceptions"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/unit"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/buildings"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/map"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/functions"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/exceptions"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
@@ -125,24 +125,24 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 game_techprog/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 game_techprog/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="buildings_Lib">
-				<Option output="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_buildings/libbuildings_Lib.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_buildings"/>
+				<Option output="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_buildings/libbuildings_Lib.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_buildings"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/unit"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/buildings"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/map"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/functions"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/exceptions"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/unit"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/buildings"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/map"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/functions"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/exceptions"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
@@ -151,24 +151,24 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_buildings/Makefile&quot;  VERBOSE=1 buildings_Lib"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_buildings/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_buildings/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_buildings/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_buildings/Makefile&quot;  VERBOSE=1 buildings_Lib"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_buildings/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_buildings/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_buildings/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="buildings_Lib/fast">
-				<Option output="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_buildings/libbuildings_Lib.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_buildings"/>
+				<Option output="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_buildings/libbuildings_Lib.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_buildings"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/unit"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/buildings"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/map"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/functions"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/exceptions"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/unit"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/buildings"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/map"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/functions"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/exceptions"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
@@ -177,24 +177,24 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_buildings/Makefile&quot;  VERBOSE=1 buildings_Lib/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_buildings/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_buildings/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_buildings/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_buildings/Makefile&quot;  VERBOSE=1 buildings_Lib/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_buildings/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_buildings/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_buildings/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="unit_Lib">
-				<Option output="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_unit/libunit_Lib.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_unit"/>
+				<Option output="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_unit/libunit_Lib.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_unit"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/unit"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/buildings"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/map"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/functions"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/exceptions"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/unit"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/buildings"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/map"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/functions"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/exceptions"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
@@ -203,24 +203,24 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_unit/Makefile&quot;  VERBOSE=1 unit_Lib"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_unit/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_unit/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_unit/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_unit/Makefile&quot;  VERBOSE=1 unit_Lib"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_unit/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_unit/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_unit/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="unit_Lib/fast">
-				<Option output="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_unit/libunit_Lib.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_unit"/>
+				<Option output="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_unit/libunit_Lib.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_unit"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/unit"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/buildings"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/map"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/functions"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/exceptions"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/unit"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/buildings"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/map"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/functions"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/exceptions"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
@@ -229,24 +229,24 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_unit/Makefile&quot;  VERBOSE=1 unit_Lib/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_unit/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_unit/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_unit/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_unit/Makefile&quot;  VERBOSE=1 unit_Lib/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_unit/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_unit/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_unit/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="map_Lib">
-				<Option output="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_map/libmap_Lib.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_map"/>
+				<Option output="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_map/libmap_Lib.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_map"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/unit"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/buildings"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/map"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/functions"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/exceptions"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/unit"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/buildings"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/map"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/functions"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/exceptions"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
@@ -255,24 +255,24 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_map/Makefile&quot;  VERBOSE=1 map_Lib"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_map/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_map/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_map/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_map/Makefile&quot;  VERBOSE=1 map_Lib"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_map/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_map/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_map/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="map_Lib/fast">
-				<Option output="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_map/libmap_Lib.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_map"/>
+				<Option output="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_map/libmap_Lib.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_map"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/unit"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/buildings"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/map"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/functions"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/exceptions"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/unit"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/buildings"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/map"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/functions"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/exceptions"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
@@ -281,24 +281,24 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_map/Makefile&quot;  VERBOSE=1 map_Lib/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_map/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_map/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_map/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_map/Makefile&quot;  VERBOSE=1 map_Lib/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_map/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_map/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_map/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="functions_Lib">
-				<Option output="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_functions/libfunctions_Lib.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_functions"/>
+				<Option output="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_functions/libfunctions_Lib.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_functions"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/unit"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/buildings"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/map"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/functions"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/exceptions"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/unit"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/buildings"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/map"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/functions"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/exceptions"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
@@ -307,24 +307,24 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_functions/Makefile&quot;  VERBOSE=1 functions_Lib"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_functions/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_functions/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_functions/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_functions/Makefile&quot;  VERBOSE=1 functions_Lib"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_functions/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_functions/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_functions/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="functions_Lib/fast">
-				<Option output="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_functions/libfunctions_Lib.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_functions"/>
+				<Option output="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_functions/libfunctions_Lib.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_functions"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/unit"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/buildings"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/map"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/functions"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/exceptions"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/unit"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/buildings"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/map"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/functions"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/exceptions"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
@@ -333,24 +333,24 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_functions/Makefile&quot;  VERBOSE=1 functions_Lib/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_functions/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_functions/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_functions/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_functions/Makefile&quot;  VERBOSE=1 functions_Lib/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_functions/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_functions/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_functions/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="exceptions_Lib">
-				<Option output="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_exceptions/libexceptions_Lib.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_exceptions"/>
+				<Option output="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_exceptions/libexceptions_Lib.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_exceptions"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/unit"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/buildings"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/map"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/functions"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/exceptions"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/unit"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/buildings"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/map"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/functions"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/exceptions"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
@@ -359,24 +359,24 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_exceptions/Makefile&quot;  VERBOSE=1 exceptions_Lib"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_exceptions/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_exceptions/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_exceptions/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_exceptions/Makefile&quot;  VERBOSE=1 exceptions_Lib"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_exceptions/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_exceptions/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_exceptions/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="exceptions_Lib/fast">
-				<Option output="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_exceptions/libexceptions_Lib.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_exceptions"/>
+				<Option output="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_exceptions/libexceptions_Lib.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_exceptions"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/unit"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/buildings"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/map"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/functions"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/exceptions"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/unit"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/buildings"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/map"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/functions"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/exceptions"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
@@ -385,26 +385,26 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_exceptions/Makefile&quot;  VERBOSE=1 exceptions_Lib/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_exceptions/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_exceptions/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/libs/lib_exceptions/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_exceptions/Makefile&quot;  VERBOSE=1 exceptions_Lib/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_exceptions/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_exceptions/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/libs/lib_exceptions/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="GoogleTestDemo">
-				<Option output="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/bin/GoogleTestDemo" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/../bin"/>
+				<Option output="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/bin/GoogleTestDemo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/../bin"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/unit"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/buildings"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/map"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/functions"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/exceptions"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/lib/googletest/googletest/include"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/lib/googletest/googletest"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/unit"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/buildings"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/map"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/functions"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/exceptions"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/lib/googletest/googletest/include"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/lib/googletest/googletest"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
@@ -413,26 +413,26 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/Makefile&quot;  VERBOSE=1 GoogleTestDemo"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/Makefile&quot;  VERBOSE=1 GoogleTestDemo"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="GoogleTestDemo/fast">
-				<Option output="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/bin/GoogleTestDemo" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/../bin"/>
+				<Option output="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/bin/GoogleTestDemo" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/../bin"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/unit"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/buildings"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/map"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/functions"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/exceptions"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/lib/googletest/googletest/include"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/lib/googletest/googletest"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/unit"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/buildings"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/map"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/functions"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/exceptions"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/lib/googletest/googletest/include"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/lib/googletest/googletest"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
@@ -441,28 +441,28 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/Makefile&quot;  VERBOSE=1 GoogleTestDemo/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/Makefile&quot;  VERBOSE=1 GoogleTestDemo/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="gmock">
-				<Option output="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/lib/libgmockd.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock"/>
+				<Option output="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/lib/libgmockd.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/unit"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/buildings"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/map"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/functions"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/exceptions"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/lib/googletest/googlemock/include"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/lib/googletest/googlemock"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/lib/googletest/googletest/include"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/lib/googletest/googletest"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/unit"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/buildings"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/map"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/functions"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/exceptions"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/lib/googletest/googlemock/include"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/lib/googletest/googlemock"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/lib/googletest/googletest/include"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/lib/googletest/googletest"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
@@ -471,28 +471,28 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/Makefile&quot;  VERBOSE=1 gmock"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/Makefile&quot;  VERBOSE=1 gmock"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="gmock/fast">
-				<Option output="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/lib/libgmockd.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock"/>
+				<Option output="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/lib/libgmockd.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/unit"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/buildings"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/map"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/functions"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/exceptions"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/lib/googletest/googlemock/include"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/lib/googletest/googlemock"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/lib/googletest/googletest/include"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/lib/googletest/googletest"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/unit"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/buildings"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/map"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/functions"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/exceptions"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/lib/googletest/googlemock/include"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/lib/googletest/googlemock"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/lib/googletest/googletest/include"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/lib/googletest/googletest"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
@@ -501,28 +501,28 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/Makefile&quot;  VERBOSE=1 gmock/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/Makefile&quot;  VERBOSE=1 gmock/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="gmock_main">
-				<Option output="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/lib/libgmock_maind.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock"/>
+				<Option output="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/lib/libgmock_maind.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/unit"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/buildings"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/map"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/functions"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/exceptions"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/lib/googletest/googlemock/include"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/lib/googletest/googlemock"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/lib/googletest/googletest/include"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/lib/googletest/googletest"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/unit"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/buildings"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/map"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/functions"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/exceptions"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/lib/googletest/googlemock/include"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/lib/googletest/googlemock"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/lib/googletest/googletest/include"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/lib/googletest/googletest"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
@@ -531,28 +531,28 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/Makefile&quot;  VERBOSE=1 gmock_main"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/Makefile&quot;  VERBOSE=1 gmock_main"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="gmock_main/fast">
-				<Option output="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/lib/libgmock_maind.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock"/>
+				<Option output="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/lib/libgmock_maind.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/unit"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/buildings"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/map"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/functions"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/exceptions"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/lib/googletest/googlemock/include"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/lib/googletest/googlemock"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/lib/googletest/googletest/include"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/lib/googletest/googletest"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/unit"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/buildings"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/map"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/functions"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/exceptions"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/lib/googletest/googlemock/include"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/lib/googletest/googlemock"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/lib/googletest/googletest/include"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/lib/googletest/googletest"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
@@ -561,26 +561,26 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/Makefile&quot;  VERBOSE=1 gmock_main/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/Makefile&quot;  VERBOSE=1 gmock_main/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googlemock/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="gtest_main">
-				<Option output="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/lib/libgtest_maind.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest"/>
+				<Option output="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/lib/libgtest_maind.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/unit"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/buildings"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/map"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/functions"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/exceptions"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/lib/googletest/googletest/include"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/lib/googletest/googletest"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/unit"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/buildings"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/map"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/functions"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/exceptions"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/lib/googletest/googletest/include"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/lib/googletest/googletest"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
@@ -589,26 +589,26 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/Makefile&quot;  VERBOSE=1 gtest_main"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/Makefile&quot;  VERBOSE=1 gtest_main"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="gtest_main/fast">
-				<Option output="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/lib/libgtest_maind.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest"/>
+				<Option output="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/lib/libgtest_maind.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/unit"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/buildings"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/map"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/functions"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/exceptions"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/lib/googletest/googletest/include"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/lib/googletest/googletest"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/unit"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/buildings"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/map"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/functions"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/exceptions"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/lib/googletest/googletest/include"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/lib/googletest/googletest"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
@@ -617,26 +617,26 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/Makefile&quot;  VERBOSE=1 gtest_main/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/Makefile&quot;  VERBOSE=1 gtest_main/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="gtest">
-				<Option output="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/lib/libgtestd.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest"/>
+				<Option output="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/lib/libgtestd.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/unit"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/buildings"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/map"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/functions"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/exceptions"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/lib/googletest/googletest/include"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/lib/googletest/googletest"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/unit"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/buildings"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/map"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/functions"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/exceptions"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/lib/googletest/googletest/include"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/lib/googletest/googletest"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
@@ -645,26 +645,26 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/Makefile&quot;  VERBOSE=1 gtest"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/Makefile&quot;  VERBOSE=1 gtest"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="gtest/fast">
-				<Option output="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/lib/libgtestd.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest"/>
+				<Option output="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/lib/libgtestd.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/unit"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/buildings"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/map"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/functions"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/exceptions"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/lib/googletest/googletest/include"/>
-					<Add directory="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/lib/googletest/googletest"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/unit"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/buildings"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/map"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/functions"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/exceptions"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/lib/googletest/googletest/include"/>
+					<Add directory="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/lib/googletest/googletest"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
@@ -673,113 +673,113 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/Makefile&quot;  VERBOSE=1 gtest/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/Makefile&quot;  VERBOSE=1 gtest/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/cmake-build-debug/GoogleTestDemo/lib/googletest/googletest/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/lib/googletest/googlemock/src/gmock-all.cc">
+		<Unit filename="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/lib/googletest/googlemock/src/gmock-all.cc">
 			<Option target="gmock"/>
 		</Unit>
-		<Unit filename="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/lib/googletest/googlemock/src/gmock_main.cc">
+		<Unit filename="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/lib/googletest/googlemock/src/gmock_main.cc">
 			<Option target="gmock_main"/>
 		</Unit>
-		<Unit filename="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/lib/googletest/googletest/src/gtest-all.cc">
+		<Unit filename="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/lib/googletest/googletest/src/gtest-all.cc">
 			<Option target="gtest"/>
 		</Unit>
-		<Unit filename="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/lib/googletest/googletest/src/gtest_main.cc">
+		<Unit filename="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/lib/googletest/googletest/src/gtest_main.cc">
 			<Option target="gtest_main"/>
 		</Unit>
-		<Unit filename="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/main_test.cpp">
+		<Unit filename="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/main_test.cpp">
 			<Option target="GoogleTestDemo"/>
 		</Unit>
-		<Unit filename="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/buildings/building.cpp">
+		<Unit filename="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/buildings/building.cpp">
 			<Option target="buildings_Lib"/>
 		</Unit>
-		<Unit filename="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/buildings/building.h">
+		<Unit filename="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/buildings/building.h">
 			<Option target="buildings_Lib"/>
 		</Unit>
-		<Unit filename="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/exceptions/exceptions.cpp">
+		<Unit filename="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/exceptions/exceptions.cpp">
 			<Option target="exceptions_Lib"/>
 		</Unit>
-		<Unit filename="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/exceptions/exceptions.h">
+		<Unit filename="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/exceptions/exceptions.h">
 			<Option target="exceptions_Lib"/>
 		</Unit>
-		<Unit filename="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/functions/functions.cpp">
+		<Unit filename="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/functions/functions.cpp">
 			<Option target="functions_Lib"/>
 		</Unit>
-		<Unit filename="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/functions/functions.h">
+		<Unit filename="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/functions/functions.h">
 			<Option target="functions_Lib"/>
 		</Unit>
-		<Unit filename="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/main.cpp">
+		<Unit filename="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/main.cpp">
 			<Option target="game_techprog"/>
 		</Unit>
-		<Unit filename="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/main.h">
+		<Unit filename="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/main.h">
 			<Option target="game_techprog"/>
 		</Unit>
-		<Unit filename="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/map/destination.h">
+		<Unit filename="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/map/destination.h">
 			<Option target="map_Lib"/>
 		</Unit>
-		<Unit filename="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/map/map.cpp">
+		<Unit filename="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/map/map.cpp">
 			<Option target="map_Lib"/>
 		</Unit>
-		<Unit filename="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/map/map.h">
+		<Unit filename="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/map/map.h">
 			<Option target="map_Lib"/>
 		</Unit>
-		<Unit filename="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/unit/unit.cpp">
+		<Unit filename="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/unit/unit.cpp">
 			<Option target="unit_Lib"/>
 		</Unit>
-		<Unit filename="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/unit/unit.h">
+		<Unit filename="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/unit/unit.h">
 			<Option target="unit_Lib"/>
 		</Unit>
-		<Unit filename="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/CMakeLists.txt">
+		<Unit filename="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
-		<Unit filename="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/CMakeLists.txt">
+		<Unit filename="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\GoogleTestDemo\"/>
 		</Unit>
-		<Unit filename="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/lib/googletest/CMakeLists.txt">
+		<Unit filename="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/lib/googletest/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\GoogleTestDemo\lib\googletest\"/>
 		</Unit>
-		<Unit filename="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/lib/googletest/googlemock/CMakeLists.txt">
+		<Unit filename="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/lib/googletest/googlemock/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\GoogleTestDemo\lib\googletest\googlemock\"/>
 		</Unit>
-		<Unit filename="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/lib/googletest/googlemock/cmake/gmock.pc.in">
+		<Unit filename="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/lib/googletest/googlemock/cmake/gmock.pc.in">
 			<Option virtualFolder="CMake Files\GoogleTestDemo\lib\googletest\googlemock\cmake\"/>
 		</Unit>
-		<Unit filename="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/lib/googletest/googlemock/cmake/gmock_main.pc.in">
+		<Unit filename="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/lib/googletest/googlemock/cmake/gmock_main.pc.in">
 			<Option virtualFolder="CMake Files\GoogleTestDemo\lib\googletest\googlemock\cmake\"/>
 		</Unit>
-		<Unit filename="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/lib/googletest/googletest/CMakeLists.txt">
+		<Unit filename="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/lib/googletest/googletest/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\GoogleTestDemo\lib\googletest\googletest\"/>
 		</Unit>
-		<Unit filename="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/lib/googletest/googletest/cmake/Config.cmake.in">
+		<Unit filename="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/lib/googletest/googletest/cmake/Config.cmake.in">
 			<Option virtualFolder="CMake Files\GoogleTestDemo\lib\googletest\googletest\cmake\"/>
 		</Unit>
-		<Unit filename="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/lib/googletest/googletest/cmake/gtest.pc.in">
+		<Unit filename="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/lib/googletest/googletest/cmake/gtest.pc.in">
 			<Option virtualFolder="CMake Files\GoogleTestDemo\lib\googletest\googletest\cmake\"/>
 		</Unit>
-		<Unit filename="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/lib/googletest/googletest/cmake/gtest_main.pc.in">
+		<Unit filename="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/lib/googletest/googletest/cmake/gtest_main.pc.in">
 			<Option virtualFolder="CMake Files\GoogleTestDemo\lib\googletest\googletest\cmake\"/>
 		</Unit>
-		<Unit filename="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/GoogleTestDemo/lib/googletest/googletest/cmake/internal_utils.cmake">
+		<Unit filename="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/GoogleTestDemo/lib/googletest/googletest/cmake/internal_utils.cmake">
 			<Option virtualFolder="CMake Files\GoogleTestDemo\lib\googletest\googletest\cmake\"/>
 		</Unit>
-		<Unit filename="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/buildings/CMakeLists.txt">
+		<Unit filename="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/buildings/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\buildings\"/>
 		</Unit>
-		<Unit filename="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/unit/CMakeLists.txt">
+		<Unit filename="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/unit/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\unit\"/>
 		</Unit>
-		<Unit filename="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/map/CMakeLists.txt">
+		<Unit filename="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/map/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\map\"/>
 		</Unit>
-		<Unit filename="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/functions/CMakeLists.txt">
+		<Unit filename="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/functions/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\functions\"/>
 		</Unit>
-		<Unit filename="/Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/exceptions/CMakeLists.txt">
+		<Unit filename="/Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/exceptions/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\exceptions\"/>
 		</Unit>
 	</Project>

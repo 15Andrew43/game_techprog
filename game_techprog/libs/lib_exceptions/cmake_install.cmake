@@ -1,4 +1,4 @@
-# Install script for directory: /Users/andrew_borovets/Desktop/proga/TECHPROG/TechProg-2020/game_techprog/exceptions
+# Install script for directory: /Users/andrew_borovets/Documents/game_techprog/game_techprog/game_techprog/exceptions
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
